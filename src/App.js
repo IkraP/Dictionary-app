@@ -24,7 +24,7 @@ class DictionaryApp extends React.Component {
     e.preventDefault();
     const word = e.target.elements.word.value;
     if(!word) {
-      this.setState({
+       return this.setState({
         error: "Please enter a word"
     })}
     const api_call = await fetch(`https://googledictionaryapi.eu-gb.mybluemix.net/?define=${word}`)
