@@ -1,13 +1,21 @@
+# SAVED
+### A dictionary app to save words you read ..
 
-![A way of life](Capture of whole app.JPG)
+<p align="center">
+  <img src = "https://github.com/IkraP/Dictionary-app/blob/master/src/img/saved%20logo%20trans-01@2x.png?raw=true" alt="SAVED logo"/>
+</p>
 
+The project inspiration comes from my own personal struggles with reading interesting words and not having a central organising system for them.
+The app has a very simple UI design where users can search for a word which initiates an API call to the google dictionary API developed by @meetDeveloper [https://github.com/meetDeveloper] [https://googledictionaryapi.eu-gb.mybluemix.net/].
 
+The app will display the definition of the word and the user has an option to save the words in a folder to view at a later date. 
 
+### App prototype 
+The screenshot below displays the prototype of the SAVED app developed using Adobe XD. 
 
+![Screenshot of app design](https://github.com/IkraP/Dictionary-app/blob/master/Capture%20of%20whole%20app.png?raw=true)
 
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my first project with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
